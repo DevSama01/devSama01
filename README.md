@@ -32,13 +32,16 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevSama&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)
+## 🚀 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSama&layout=donut&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevSama01&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&cache_seconds=60)](https://github.com/DevSama01)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevSama&bg_color=121111&color=00ffe1&line=fa00d9&point=fff700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSama01&layout=donut&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&cache_seconds=60)](https://github.com/DevSama01)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevSama&theme=radical)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevSama01&bg_color=121111&color=00ffe1&line=fa00d9&point=fff700&area=true&hide_border=true&cache_seconds=60)](https://github.com/DevSama01)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevSama01&theme=radical&cache_seconds=60)](https://github.com/DevSama01)
+
 
 ---
 
