@@ -11,7 +11,7 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="200" align="right">
 
-- 🎓 Final year Software Engineering student at UOH, Pakistan  
+- 🎓 Software Engineer
 - 📱 Freelance Mobile & AR Developer (Flutter, Unity, Vuforia)  
 - 🧠 Currently building a 3D Physics Learning Lab using Augmented Reality  
 - 🌍 Interested in working in the Gulf region  
