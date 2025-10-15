@@ -2,7 +2,7 @@
 
 # Welcome to My Development Hub 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffd0&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Engr+Usama!;Flutter+%26+AR+Developer!;Final+Year+Software+Engineer!;Creative+Problem+Solver!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffd0&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Engr+Usama!;Flutter+%26+AR+Developer!;Software+Engineer!;Creative+Problem+Solver!)](https://git.io/typing-svg)
 
 
 ---
